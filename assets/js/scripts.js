@@ -1,7 +1,7 @@
 $(document).ready(function () {
     // --- CONFIGURATION ---
     // REPLACE THIS URL WITH YOUR PYTHON BACKEND URL
-    const API_URL = "http://127.0.0.1:8000/api/predict";
+    const API_URL = "https://chic-duckanoo-cc77a7.netlify.app/";
 
     let currentFile = null;
     let currentFileBase64 = null;
